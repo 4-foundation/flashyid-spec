@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/FlashyLabs/flashyid-spec/schema/delegation-1.json",
+  "$id": "https://github.com/AgenteLabs/flashyid-spec/schema/delegation-1.json",
   "title": "delegation/1",
   "description": "A chain of attenuating grants, root first. Structure only: the attenuation walk (each hop a subset of its parent), expiry at an instant and revocation are stated in SPEC.md and checked by vendor-delegation.mjs, because a schema cannot compare one array element against another.",
   "type": "object",
