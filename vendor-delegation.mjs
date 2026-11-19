@@ -19,7 +19,7 @@
 //
 // What this file does NOT do: verify a signature. delegation/1 defines what is
 // signed (`signingInput`) and mandates no algorithm and no key distribution;
-// those are the implementation's (FlashyLabs/flashyid). A document whose every
+// those are the implementation's (AgenteLabs/flashyid). A document whose every
 // grant carries `signature: null` is reported `signed: false`, and a stranger
 // reading the result knows exactly which half was checked.
 //

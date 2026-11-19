@@ -5,7 +5,7 @@
 **It is spec-only.** SPEC.md, a JSON Schema, vectors and one dependency-free
 checker. The implementation — the OIDC provider, `@flashyid/sdk`'s grant
 kernel, key handling, signature verification, the rail surfaces — is
-FlashyLabs/flashyid, and every rule here is seeded from it. If a rule needs
+AgenteLabs/flashyid, and every rule here is seeded from it. If a rule needs
 code that is not a pure check over a JSON document, it does not belong here.
 
 **The attenuation invariant is the whole point.** A child grant carries a

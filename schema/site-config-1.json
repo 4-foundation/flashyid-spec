@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/FlashyLabs/web4/schema/site-config-1.json",
+  "$id": "https://github.com/4-foundation/web4/schema/site-config-1.json",
   "title": "site-config/1 — the config a protocol repository's institutional front door is generated from",
   "description": "One document per property, validated as site-config/1. build-site.mjs reads it, plus the repository's own .well-known/stack.json copy, its AAO charter and the vendored brand kit, and writes the whole site/. Everything property-specific lives here, so the generator itself is vendored unchanged across the estate's protocol repositories. Keys prefixed x- are extensions and allowed anywhere; every other key is closed.",
   "type": "object",

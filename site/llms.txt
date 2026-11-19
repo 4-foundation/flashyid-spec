@@ -17,4 +17,4 @@
 - https://flashylabs.github.io/flashyid-spec/.well-known/flashyos-charter.json — the AAO charter this org is provisioned from.
 - https://flashylabs.github.io/flashyid-spec/.well-known/directory.json — this org's directory/1 node.
 
-The machine twin is maintained at https://github.com/FlashyLabs/flashyid-spec; this repository is https://github.com/FlashyLabs/flashyid-spec.
+The machine twin is maintained at https://github.com/4-foundation/flashyid-spec; this repository is https://github.com/4-foundation/flashyid-spec.
